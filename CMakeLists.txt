@@ -20,6 +20,15 @@ add_executable(ch1-weighted-quick-union-halving-compression
 
 # Chapter 2
 
+add_executable(ch2-ex-2.12-compute-harmonic-numbers
+        ch-2/ex-2.12-compute-harmonic-numbers.cpp)
 
+add_executable(ch2-ex-2.13-compute-lglgN
+        ch-2/ex-2.13-compute-lglgN.cpp)
 
 # Chapter 3
+
+add_executable(ch3-ex-3.9-random-triangles-areas
+        ch-3/ex-3.9-random-triangles-areas.cpp
+        ch-3/Point.cpp ch-3/Point.h
+        ch-3/Triangle.cpp ch-3/Triangle.h)
