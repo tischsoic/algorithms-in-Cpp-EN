@@ -13,6 +13,7 @@ Point randomPoint() {
 }
 
 int main() {
+
     for (int i = 3; i > 0; --i) {
         Triangle randTriangle{randomPoint(), randomPoint(), randomPoint()};
 

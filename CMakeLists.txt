@@ -32,3 +32,12 @@ add_executable(ch3-ex-3.9-random-triangles-areas
         ch-3/ex-3.9-random-triangles-areas.cpp
         ch-3/Point.cpp ch-3/Point.h
         ch-3/Triangle.cpp ch-3/Triangle.h)
+
+add_executable(ch-3-ex-3.2
+        ch-3/ex-3.2-random-average-and-std-deviation.cpp)
+
+add_executable(ch-3-ex-3.3
+        ch-3/ex-3.3-random-average-and-std-deviation.cpp)
+
+add_executable(ch-3-ex-3.5
+        ch-3/ex-3.5-random-bits-fn.cpp)
