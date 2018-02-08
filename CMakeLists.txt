@@ -41,3 +41,18 @@ add_executable(ch-3-ex-3.3
 
 add_executable(ch-3-ex-3.5
         ch-3/ex-3.5-random-bits-fn.cpp)
+
+add_executable(ch-3-ex-3.13
+        ch-3/ex-3.11-13-sieve-of-Eratosthenes.cpp)
+
+add_executable(ch-3-ex-3.14
+        ch-3/ex-3.14-sieve-of-Eratosthenes-vector.cpp)
+
+add_executable(ch-3-ex-3.17
+        ch-3/ex-3.17-number-of-before-repeated.cpp)
+
+add_executable(ch-3-ex-3.18
+        ch-3/ex-3.18-number-of-before-each-at-least-once.cpp)
+
+add_executable(ch-3-ex-3.19-20
+        ch-3/ex-3.19-20-coin-turns-with-probability.cpp)
